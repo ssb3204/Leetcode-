@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ssb3204/Leetcode-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/ssb3204/Leetcode-/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ssb3204/Leetcode-/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/ssb3204/Leetcode-/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ssb3204/Leetcode-/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ssb3204/Leetcode-/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ssb3204/Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
